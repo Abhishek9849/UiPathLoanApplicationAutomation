@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Browser - UiBank",
+  "Type": "Screen",
+  "Id": "2_5EUn70WU-WJdIyjClTWQ",
+  "Reference": "l5Wwckm9EkWjaC-UkMeIxg/2_5EUn70WU-WJdIyjClTWQ",
+  "ParentRef": "l5Wwckm9EkWjaC-UkMeIxg/UQerA2XFsEiiYVgIybbxiw",
+  "Created": "2025-11-30T05:01:50.3056193Z",
+  "Updated": "2025-11-30T05:01:50.3056193Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.19.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

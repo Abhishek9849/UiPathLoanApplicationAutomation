@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Browser - UiBank",
+  "Type": "App",
+  "Id": "tzRw-pk3OES9J2i3cuyTYw",
+  "Reference": "l5Wwckm9EkWjaC-UkMeIxg/tzRw-pk3OES9J2i3cuyTYw",
+  "Created": "2025-11-30T05:01:48.1197508Z",
+  "Updated": "2025-11-30T05:01:48.1197508Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.19.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

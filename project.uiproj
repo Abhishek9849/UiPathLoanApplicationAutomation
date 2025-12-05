@@ -1,0 +1,6 @@
+{
+  "Name": "UiPath Loan Application Process",
+  "ProjectType": "Process",
+  "Description": "Applying loans ",
+  "MainFile": "Main.xaml"
+}
